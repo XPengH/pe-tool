@@ -1,0 +1,25 @@
+{
+  "name": "x-plan",
+  "version": "0.0.0",
+  "description": "x-plan",
+  "main": "app.js",
+  "dependencies": {
+    "cheerio": "^0.17.0",
+    "http": "0.0.0",
+    "net-ping": "^1.2.3",
+    "puppeteer": "^1.4.0",
+    "request": "^2.87.0",
+    "request-promise": "^4.2.2",
+    "save": "^2.3.2",
+    "superagent": "^0.20.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pepe",
+  "license": "MIT"
+}
